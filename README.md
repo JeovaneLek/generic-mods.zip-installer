@@ -20,7 +20,6 @@ The project was created as a Python learning project focused on modular architec
 
 ## Project Structure
 
-```text
 ModInstaller/
 ├── main.py
 ├── config.py
@@ -37,7 +36,7 @@ ModInstaller/
 The project uses a local `config.json` file to define the folders used by the installer.
 
 
-```json
+   json
 {
     "downloads_folder": "",
     "mods_folder": ""
@@ -54,7 +53,7 @@ The project uses a local `config.json` file to define the folders used by the in
 git clone <repository-url>
 cd ModInstaller
 
-Remember to edit config.json file!
+ Remember to edit config.json file!
 
 ## Usage
 
