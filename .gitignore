@@ -216,3 +216,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project-specific files
+
+# Neovim swap files
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
